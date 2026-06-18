@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Munchkin 360 Cloud High Chair</title>
+  <desc id="desc">Illustrated product card for the Munchkin 360 Cloud high chair.</desc>
+  <rect width="600" height="480" fill="#eef6f8"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#d9edf0"/>
+  <circle cx="300" cy="214" r="74" fill="#eef7f8" stroke="#c9dde0" stroke-width="10"/>
+  <path d="M242 168h116v48c0 28-22 50-50 50h-16c-28 0-50-22-50-50z" fill="#f8fdfe"/>
+  <path d="M260 266h18l-32 98h-19zM324 266h18l34 98h-19z" fill="#8f9fa2"/>
+  <path d="M224 214c12-24 38-40 76-40" fill="none" stroke="#88c3cd" stroke-width="8" stroke-linecap="round"/>
+  <text x="58" y="102" fill="#2a6b74" font-family="Arial, sans-serif" font-size="22" font-weight="700">MUNCHKIN 360 CLOUD</text>
+  <text x="58" y="132" fill="#4a8f99" font-family="Arial, sans-serif" font-size="36" font-weight="700">Swivel-style access</text>
+  <text x="58" y="410" fill="#6e7f82" font-family="Arial, sans-serif" font-size="22">Modern chair with rotating feel</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Fisher-Price SpaceSaver Simple Clean</title>
+  <desc id="desc">Illustrated product card for the Fisher-Price SpaceSaver chair.</desc>
+  <rect width="600" height="480" fill="#f4f1e8"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#e7dfc7"/>
+  <rect x="206" y="206" width="188" height="104" rx="26" fill="#fffdf7" stroke="#d7ceb5" stroke-width="8"/>
+  <rect x="172" y="310" width="256" height="18" rx="9" fill="#b69d77"/>
+  <path d="M242 328h22l-14 52h-18zM336 328h22l16 52h-18z" fill="#8b7757"/>
+  <text x="58" y="102" fill="#6f613b" font-family="Arial, sans-serif" font-size="22" font-weight="700">FISHER-PRICE SPACESAVER</text>
+  <text x="58" y="132" fill="#8c7b4a" font-family="Arial, sans-serif" font-size="34" font-weight="700">Chair-mounted booster</text>
+  <text x="58" y="410" fill="#79746a" font-family="Arial, sans-serif" font-size="22">Small-footprint feeding setup</text>
+</svg>

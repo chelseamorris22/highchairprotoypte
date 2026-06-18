@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ingenuity SmartClean Trio Elite 3-in-1</title>
+  <desc id="desc">Illustrated product card for the Ingenuity SmartClean Trio Elite high chair.</desc>
+  <rect width="600" height="480" fill="#f8f5ed"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#efe7cc"/>
+  <path d="M236 164h128v50c0 28-22 52-50 52h-28c-28 0-50-24-50-52z" fill="#fffdf6"/>
+  <path d="M252 266h18l-34 98h-18zM330 266h18l36 98h-18z" fill="#726650"/>
+  <rect x="236" y="282" width="128" height="18" rx="9" fill="#d9c889"/>
+  <text x="58" y="102" fill="#786739" font-family="Arial, sans-serif" font-size="22" font-weight="700">INGENUITY SMARTCLEAN TRIO</text>
+  <text x="58" y="132" fill="#9a8545" font-family="Arial, sans-serif" font-size="34" font-weight="700">Utility-first 3-in-1</text>
+  <text x="58" y="410" fill="#7a766d" font-family="Arial, sans-serif" font-size="22">Budget versatility with wipe-down cues</text>
+</svg>

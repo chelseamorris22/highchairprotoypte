@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Evenflo 4-in-1 Eat and Grow</title>
+  <desc id="desc">Illustrated product card for the Evenflo 4-in-1 Eat and Grow high chair.</desc>
+  <rect width="600" height="480" fill="#f6f2ea"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#ebe1c9"/>
+  <path d="M236 164h128v50c0 28-22 52-50 52h-28c-28 0-50-24-50-52z" fill="#fffdf7"/>
+  <path d="M252 266h18l-32 98h-18zM330 266h18l34 98h-18z" fill="#7a6f58"/>
+  <path d="M246 286h108l-20 22h-68z" fill="#d4c28d"/>
+  <text x="58" y="102" fill="#6d5f38" font-family="Arial, sans-serif" font-size="22" font-weight="700">EVENFLO EAT &amp; GROW</text>
+  <text x="58" y="132" fill="#8f7b45" font-family="Arial, sans-serif" font-size="36" font-weight="700">Affordable starter chair</text>
+  <text x="58" y="410" fill="#7a756b" font-family="Arial, sans-serif" font-size="22">Low-cost convertible everyday option</text>
+</svg>

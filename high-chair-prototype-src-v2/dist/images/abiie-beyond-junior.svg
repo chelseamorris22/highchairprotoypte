@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Abiie Beyond Junior Y High Chair</title>
+  <desc id="desc">Illustrated product card for the Abiie Beyond Junior high chair.</desc>
+  <rect width="600" height="480" fill="#f6f2ea"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#ece2cf"/>
+  <path d="M234 164h132v50c0 28-22 52-50 52h-32c-28 0-50-24-50-52z" fill="#fffef8"/>
+  <path d="M252 266h20l-58 102h-18zM328 266h20l58 102h-18z" fill="#9b754d"/>
+  <rect x="246" y="286" width="108" height="16" rx="8" fill="#dbc298"/>
+  <text x="58" y="102" fill="#7a5d2c" font-family="Arial, sans-serif" font-size="22" font-weight="700">ABIIE BEYOND JUNIOR</text>
+  <text x="58" y="132" fill="#9c7a3f" font-family="Arial, sans-serif" font-size="36" font-weight="700">Adjustable wood classic</text>
+  <text x="58" y="410" fill="#7c766d" font-family="Arial, sans-serif" font-size="22">Long-term posture-focused frame</text>
+</svg>

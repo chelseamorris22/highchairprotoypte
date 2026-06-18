@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Stokke Clikk High Chair</title>
+  <desc id="desc">Illustrated product card for the Stokke Clikk high chair.</desc>
+  <rect width="600" height="480" fill="#f5f3ea"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#ddeee5"/>
+  <ellipse cx="300" cy="182" rx="92" ry="26" fill="#c4d6cc"/>
+  <path d="M238 166h124v52c0 26-22 48-48 48h-28c-26 0-48-22-48-48z" fill="#f7fbf8"/>
+  <path d="M232 162c0-27 19-49 43-49h50c24 0 43 22 43 49z" fill="#eaf4ee"/>
+  <path d="M262 266h20l-34 98h-19zM336 266h20l36 98h-19z" fill="#9f7b59"/>
+  <path d="M280 266h42l-10 108h-22z" fill="#8d694a"/>
+  <rect x="220" y="370" width="160" height="14" rx="7" fill="#c4d6cc"/>
+  <text x="58" y="102" fill="#2e5f49" font-family="Arial, sans-serif" font-size="22" font-weight="700">STOKKE CLIKK</text>
+  <text x="58" y="132" fill="#4f7061" font-family="Arial, sans-serif" font-size="36" font-weight="700">Simple everyday feeding</text>
+  <text x="58" y="410" fill="#6c7a72" font-family="Arial, sans-serif" font-size="22">Footrest + easy-clean silhouette</text>
+</svg>

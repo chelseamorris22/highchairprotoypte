@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Baby Jogger City Bistro High Chair</title>
+  <desc id="desc">Illustrated product card for the Baby Jogger City Bistro high chair.</desc>
+  <rect width="600" height="480" fill="#eef0f3"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#dde2e8"/>
+  <path d="M246 164h108c30 0 54 24 54 54v34H192v-34c0-30 24-54 54-54z" fill="#fafcff"/>
+  <path d="M250 266h18l-50 98h-18zM332 266h18l52 98h-18z" fill="#555e68"/>
+  <path d="M236 320l66-62 62 62" fill="none" stroke="#90a0b3" stroke-width="10" stroke-linecap="round"/>
+  <text x="58" y="102" fill="#4b5a6d" font-family="Arial, sans-serif" font-size="22" font-weight="700">BABY JOGGER CITY BISTRO</text>
+  <text x="58" y="132" fill="#66788f" font-family="Arial, sans-serif" font-size="36" font-weight="700">Fold-first storage option</text>
+  <text x="58" y="410" fill="#757d86" font-family="Arial, sans-serif" font-size="22">Compact fold visual language</text>
+</svg>

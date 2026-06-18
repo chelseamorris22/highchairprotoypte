@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Inglesina Fast Table Chair</title>
+  <desc id="desc">Illustrated product card for the Inglesina Fast table chair.</desc>
+  <rect width="600" height="480" fill="#eef3f7"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#dae6ef"/>
+  <rect x="154" y="230" width="292" height="14" rx="7" fill="#abb8c5"/>
+  <path d="M244 168h112c28 0 50 22 50 50v34H194v-34c0-28 22-50 50-50z" fill="#f7fbff"/>
+  <path d="M212 252h26l-32 86h-18zM362 252h26l32 86h-18z" fill="#505a66"/>
+  <path d="M210 248h28v26h-28zM362 248h28v26h-28z" fill="#8f9baa"/>
+  <text x="58" y="102" fill="#49657d" font-family="Arial, sans-serif" font-size="22" font-weight="700">INGLESINA FAST</text>
+  <text x="58" y="132" fill="#64829c" font-family="Arial, sans-serif" font-size="36" font-weight="700">Travel table chair</text>
+  <text x="58" y="410" fill="#74808a" font-family="Arial, sans-serif" font-size="22">Clip-on seat for restaurants and trips</text>
+</svg>

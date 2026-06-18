@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Joovy Nook NB High Chair</title>
+  <desc id="desc">Illustrated product card for the Joovy Nook NB high chair.</desc>
+  <rect width="600" height="480" fill="#f2efea"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#e9e4db"/>
+  <path d="M236 164h128c26 0 46 20 46 46v44c0 8-7 14-14 14H252c-9 0-16-7-16-16z" fill="#fbfaf8"/>
+  <path d="M248 266h18l-34 98h-18zM334 266h18l38 98h-18z" fill="#6f7478"/>
+  <path d="M374 182l32 16v18l-32 16z" fill="#d6ccc0"/>
+  <text x="58" y="102" fill="#6a6155" font-family="Arial, sans-serif" font-size="22" font-weight="700">JOOVY NOOK NB</text>
+  <text x="58" y="132" fill="#877a6a" font-family="Arial, sans-serif" font-size="36" font-weight="700">Fold + swing tray setup</text>
+  <text x="58" y="410" fill="#7a7670" font-family="Arial, sans-serif" font-size="22">Traditional padded high-chair shape</text>
+</svg>

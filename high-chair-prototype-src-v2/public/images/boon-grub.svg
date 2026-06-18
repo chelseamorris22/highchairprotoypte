@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Boon Grub Adjustable High Chair</title>
+  <desc id="desc">Illustrated product card for the Boon Grub adjustable high chair.</desc>
+  <rect width="600" height="480" fill="#eef5f1"/>
+  <rect x="34" y="34" width="532" height="412" rx="28" fill="#ffffff"/>
+  <rect x="58" y="58" width="484" height="140" rx="22" fill="#dae9e1"/>
+  <ellipse cx="300" cy="180" rx="94" ry="26" fill="#c6d7cd"/>
+  <path d="M236 164h128v50c0 28-22 52-50 52h-28c-28 0-50-24-50-52z" fill="#f9fcfa"/>
+  <path d="M254 266h18l-30 98h-18zM330 266h18l32 98h-18z" fill="#647762"/>
+  <rect x="250" y="286" width="100" height="14" rx="7" fill="#a5c4b1"/>
+  <text x="58" y="102" fill="#3f6b55" font-family="Arial, sans-serif" font-size="22" font-weight="700">BOON GRUB</text>
+  <text x="58" y="132" fill="#57886d" font-family="Arial, sans-serif" font-size="36" font-weight="700">Modern adjustable chair</text>
+  <text x="58" y="410" fill="#717b74" font-family="Arial, sans-serif" font-size="22">Clean-lined look with posture adjustability</text>
+</svg>
